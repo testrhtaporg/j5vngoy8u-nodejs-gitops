@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j5vngoy8u-nodejs-gitops-repository
+spec:
+  url: https://github.com/testrhtaporg/j5vngoy8u-nodejs-gitops
